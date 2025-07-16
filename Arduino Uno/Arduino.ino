@@ -1,6 +1,5 @@
 #include <Servo.h>
 
-// Ultrasonic Sensor Pins
 const int trigPin = 12;
 const int echoPin = 13;
 
